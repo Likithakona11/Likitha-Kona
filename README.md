@@ -28,7 +28,7 @@
 
 ### 📌 Databases
 - MySQL
-- SQLite
+
 
 ### 📌 Tools & Platforms
 - Git & GitHub
